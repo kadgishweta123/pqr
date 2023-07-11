@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="signIn" verbose="1" >
+  <test name="TVS_Login_Page_TestCase" >  
+  <parameter name ="browser" value = "chrome"/>
+   <parameter name ="url" value = "http://www.google.com"/>
+    <classes>
+       <class name="TestCase.TVS_Login_Page_TestCase" />
+    </classes>
+  </test>
+ </suite>
